@@ -186,7 +186,7 @@ image_url = response.data[0].url
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Jinendra-Gambhir/LLM-GeminiPro-BloggingAssistant/blob/main/Images/Screenshot%202024-06-14%20021357.png)
+![App Screenshot](https://github.com/Jinendra-Gambhir/LLM-GeminiPro-BloggingAssistant/blob/main/Images/Screenshot%202024-06-14%20042137.png)
 
 
 # Usage
