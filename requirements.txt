@@ -1,0 +1,5 @@
+os
+streamlit
+openai
+streamlit_carousel
+google.generativeai
