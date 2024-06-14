@@ -1,7 +1,7 @@
 
 # LLM-GeminiPro-BloggingAssistant
 
-The goal of this project is to build a Blogging Assistant that can help users generate blog content and accompanying visuals effortlessly. I have leveraged Google Gemini's API for natural language processing (NLP) tasks and integrate it with DALL·E-3, a model capable of generating images from textual descriptions.
+This project aims to build a Blogging Assistant to help users effortlessly generate blog content and accompanying visuals. I have leveraged Google Gemini's API for natural language processing (NLP) tasks and integrated it with DALL·E-3, a model capable of generating images from textual descriptions.
 
 
 ## Acknowledgements
